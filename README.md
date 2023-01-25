@@ -1,7 +1,8 @@
 # demo
-//first repository
+first repository
 
-//first line
+first line
+
 class New{
   System.out.println("Hello World");
   }
